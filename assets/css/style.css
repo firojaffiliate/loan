@@ -566,7 +566,7 @@ hr {
 .apply-btn {
   padding: 27px 44px;
   background: #ff872d;
-  border-radius: 0;
+  border-radius: 3;
 }
 
 /* line 308, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
@@ -581,9 +581,17 @@ hr {
   padding: 30px 36px;
   box-shadow: 0px 10px 30px 0px rgba(249, 248, 249, 0.1);
 }
+.apply-btn {
+  background: #0b1416;
+  padding: 19px 19px;
+  box-shadow: 0px 10px 30px 0px rgba(249, 248, 249, 0.1);
+}
 
 /* line 318, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .hero-btn::before {
+  background: #3589f1;
+}
+.apply-btn::before {
   background: #3589f1;
 }
 
