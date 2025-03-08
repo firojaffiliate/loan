@@ -128,7 +128,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                            <span class="flaticon-wallet"></span>
+                            <span><i class="bi bi-wallet2"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Personal Loan</a></h5>
@@ -141,7 +141,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                            <span class="flaticon-business"></span>
+                            <span><i class="bi bi-briefcase"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Business Loan</a></h5>
@@ -154,7 +154,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                            <span class="flaticon-house"></span>
+                            <span><i class="bi bi-house"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Home Loan (Mortgage Loan)</a></h5>
@@ -167,7 +167,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                            <span class="flaticon-car"></span>
+                            <span><i class="bi bi-car-front"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Car Loan (Auto Loan)</a></h5>
@@ -180,7 +180,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-work"></span>
+                                <span><i class="bi bi-book"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Education Loan (Student Loan)</a></h5>
@@ -193,7 +193,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-loan"></span>
+                                <span><i class="bi bi-receipt"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Emergency Loan</a></h5>
@@ -206,7 +206,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-loan-1"></span>
+                                <span><i class="bi bi-cash-coin"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Payday Loan</a></h5>
@@ -219,7 +219,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-like"></span>
+                                <span><i class="bi bi-cash-stack"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Debt Consolidation Loan</a></h5>
@@ -233,7 +233,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-work"></span>
+                                <span><i class="bi bi-flower2"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Agricultural Loan</a></h5>
@@ -246,7 +246,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-loan"></span>
+                                <span><i class="bi bi-aspect-ratio-fill"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Gold Loan</a></h5>
@@ -272,7 +272,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-cat text-center mb-50">
                             <div class="cat-icon">
-                                <span class="flaticon-like"></span>
+                                <span><i class="bi bi-buildings"></i></span>
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Construction Loan</a></h5>
