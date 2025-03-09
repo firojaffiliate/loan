@@ -131,12 +131,12 @@
                                         </div>
                                     </div>
                                     <!-- First Name -->
-                                    <div class="col-lg-6">
+                                    <!-- <div class="col-lg-6">
                                         <div class="single-form">
                                             <label>* FIRST NAME</label>
                                             <input type="text" name="" placeholder="Enter name">
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <!-- TOWN/CITY-->
                                     <div class="col-lg-6">
                                         <div class="single-form">
