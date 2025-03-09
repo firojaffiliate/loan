@@ -28,7 +28,7 @@
                                     <div class="col-lg-6">
                                        <div class="single-form">
                                             <label>* LOAN AMOUNT ($) </label>
-                                            <input type="text" name="" placeholder="Enter name">
+                                            <input type="text" name="" placeholder="Enter Loan Amount">
                                        </div>
                                     </div>
                                    <!-- Nice Select -->
@@ -38,9 +38,18 @@
                                             <div class="select-option mb-10">
                                                 <select name="select" id="select1">
                                                     <option value="">Choose Categories</option>
-                                                    <option value="">Category 1</option>
-                                                    <option value="">Category 2</option>
-                                                    <option value="">Category 3</option>
+                                                    <option value="">Personal Loan</option>
+                                                    <option value="">Business Loan</option>
+                                                    <option value="">Home Loan (Mortgage Loan)</option>
+                                                    <option value="">Car Loan (Auto Loan)</option>
+                                                    <option value="">Education Loan (Student Loan)</option>
+                                                    <option value="">Emergency Loan</option>
+                                                    <option value="">Payday Loan</option>
+                                                    <option value="">Debt Consolidation Loan</option>
+                                                    <option value="">Agricultural Loan</option>
+                                                    <option value="">Gold Loan</option>
+                                                    <option value="">Loan Against Property (LAP)</option>
+                                                    <option value="">Construction Loan</option>
                                                 </select>
                                             </div>
                                        </div>
@@ -66,14 +75,14 @@
                                     <div class="col-lg-6">
                                         <div class="single-form">
                                              <label>* FIRST NAME</label>
-                                             <input type="text" name="" placeholder="Enter name">
+                                             <input type="text" name="" placeholder="Enter first name">
                                         </div>
                                      </div>
                                      <!-- Last Name -->
                                     <div class="col-lg-6">
                                         <div class="single-form">
                                              <label>* Last NAME</label>
-                                             <input type="text" name="" placeholder="Enter name">
+                                             <input type="text" name="" placeholder="Enter last name">
                                         </div>
                                      </div>
                                      <!-- Nice Select -->
@@ -84,9 +93,11 @@
                                             <div class="select-option mb-10">
                                                 <select name="select" id="select1">
                                                     <option value="">Choose Option</option>
-                                                    <option value="">Category 1</option>
-                                                    <option value="">Category 2</option>
-                                                    <option value="">Category 3</option>
+                                                    <option value="">1 Person</option>
+                                                    <option value="">2 Person</option>
+                                                    <option value="">3 Person</option>
+                                                    <option value="">4 Person</option>
+                                                    <option value="">5 Person</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -111,10 +122,10 @@
                                             <label>* MARITAL STATUS</label>
                                             <div class="select-option mb-10">
                                                 <select name="select" id="select1">
-                                                    <option value="">Choose Categories</option>
-                                                    <option value="">Category 1</option>
-                                                    <option value="">Category 2</option>
-                                                    <option value="">Category 3</option>
+                                                    <option value="">Select One</option>
+                                                    <option value="">Single</option>
+                                                    <option value="">Married</option>
+                                                    <option value="">Divorce</option>
                                                 </select>
                                             </div>
                                         </div>

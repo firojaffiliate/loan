@@ -27,7 +27,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -36,7 +36,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Quick approval, no hidden fees, and easy installment plans.</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
 
                     </div>
@@ -46,7 +46,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/2.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -55,7 +55,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Fast approval and flexible repayment options. Secure the funds you need today!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/3.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -73,7 +73,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Get the funds you need with transparency and ease!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/4.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -91,7 +91,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Fast, easy, and hassle-free funding!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/5.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -109,7 +109,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Fast, secure, and hassle-free funding!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -118,25 +118,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
-                            
-                            <div class="media-body text-start" style="flex-grow: 1;">
-                                <a href="blog_details.html" style="text-decoration: none;">
-                                    <h2 class="card-title" style="font-size: 30px !important; color: #333; margin-bottom: 5px;">Compare Me Funds</h2>
-                                </a>
-                                <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Get the right loan for your needs, hassle-free!</p>
-                            </div>
-                            
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row justify-content-center mt-5">
-                    <div class="col-lg-12 col-md-12">
-                        <!-- Section Tittle -->
-                        <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/6.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -145,7 +127,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Fast approval and flexible repayment options. Get the funds you need today!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -154,7 +136,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/7.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -163,7 +145,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">A winning shot for quick and easy funding!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +154,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/8.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -181,7 +163,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Quick approval and hassle-free process to get the cash you need!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>
@@ -190,7 +172,7 @@
                     <div class="col-lg-12 col-md-12">
                         <!-- Section Tittle -->
                         <div class="card d-flex flex-row align-items-center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: flex; justify-content-between;">
-                            <img src="assets/img/post/post_1.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
+                            <img src="assets/img/loan/9.png" alt="post" class="card-img-left" style="width: 120px; height: 120px; border-radius: 5px; margin-right: 15px;">
                             
                             <div class="media-body text-start" style="flex-grow: 1;">
                                 <a href="blog_details.html" style="text-decoration: none;">
@@ -199,7 +181,7 @@
                                 <p class="card-text" style="font-size: 16px !important; color: #666; margin-bottom: 0;">Fast, hassle-free loans with quick approval and flexible repayment options. Apply today!</p>
                             </div>
                             
-                            <a href="apply.html" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
+                            <a href="apply.php" class="btn btn-primary" style="margin-left: 15px;">Apply</a>
                         </div>
                     </div>
                 </div>

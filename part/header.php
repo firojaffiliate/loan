@@ -32,15 +32,15 @@
                                             <li class="active"><a href="index.php">Home</a></li>
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="loanoffers.php">Loan Offers</a></li>
-                                            <li><a href="blog.html">Blog</a>
-                                                <ul class="submenu">
+                                            <li><a href="blog.php">Blog</a>
+                                                <!-- <ul class="submenu">
                                                     <li><a href="blog.html">Blog</a></li>
                                                     <li><a href="blog_details.html">Blog Details</a></li>
                                                     <li><a href="elements.html">Element</a></li>
-                                                    <li><a href="apply.html">Apply Now</a></li>
-                                                </ul>
+                                                    <li><a href="apply.php">Apply Now</a></li>
+                                                </ul> -->
                                             </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
