@@ -27,7 +27,7 @@
                                 <span>Who We Are</span>
                                 <h2>Your Trusted Loan Partner</h2>
                             </div>
-                            <p>At [Your Company Name], we believe that financial freedom should be accessible to everyone. Whether you need funds for personal expenses, business growth, home purchases, or emergency needs, we provide a wide range of flexible loan solutions tailored to your financial goals. With years of experience in the industry, we have helped thousands of individuals and businesses secure the financing they need, quickly and hassle-free.</p>
+                            <p>At GetLoanEasily, we believe that financial freedom should be accessible to everyone. Whether you need funds for personal expenses, business growth, home purchases, or emergency needs, we provide a wide range of flexible loan solutions tailored to your financial goals. With years of experience in the industry, we have helped thousands of individuals and businesses secure the financing they need, quickly and hassle-free.</p>
                             <a href="apply.html" class="btn">Apply for Loan</a>
                         </div>
                     </div>
@@ -140,11 +140,11 @@
         <div class="home-blog-area section-padding30">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-7 col-md-10">
+                    <div class="col-lg-8 col-md-10">
                         <!-- Section Tittle -->
                         <div class="section-tittle text-center mb-70">
-                            <span>News form our latest blog</span>
-                            <h2>News from around the world selected by us.</h2>
+                            <h2>Customer Satisfaction is Our Priority</h2>
+                            <p class="m-2">At GetLoanEasily, we take pride in delivering exceptional customer service. Our team of financial experts is always available to guide you through the loan process, answer your questions, and ensure that you get the best loan suited to your needs.</p>
                         </div> 
                     </div>
                 </div>

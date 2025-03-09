@@ -1,3 +1,5 @@
+<?php include "part/head.php"; ?>
+<?php include "part/header.php"; ?>
 
     <main>
 

@@ -20,7 +20,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
-                                    <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" height="100px !important" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10 col-md-10">
@@ -31,8 +31,7 @@
                                         <ul id="navigation">  
                                             <li class="active"><a href="index.php">Home</a></li>
                                             <li><a href="about.php">About</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="#">Loan Offers</a></li>
+                                            <li><a href="loanoffers.php">Loan Offers</a></li>
                                             <li><a href="blog.html">Blog</a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">Blog</a></li>
